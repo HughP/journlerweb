@@ -1,0 +1,2 @@
+db_module=journlerweb.model
+history_dir=$base/journlerweb/sqlobject-history
