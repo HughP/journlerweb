@@ -10,6 +10,7 @@ For now, you have to install these separately but it shouldn't bee too difficult
   # Install Turbogears from [http://www.turbogears.com/download/ here]
   # Install Subversion (svn) from [http://metissian.com/downloads/macosx/subversion/subversion-client-1.3.1.dmg here]
 
+
 = Install JournlerWeb = 
  
 Currently, you have to install JournlerWeb from svn. 
